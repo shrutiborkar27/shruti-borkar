@@ -16,7 +16,7 @@ I am a Data Enthusiast with 7 years of experience with leading organizations in 
 
 ## 📫 Contact Me
 - [LinkedIn] (https://www.linkedin.com/in/shruti-borkar)
-- [Portfolio] (
+- [Portfolio] (https://github.com/shrutiborkar27/shruti-borkar.git.io)
 
 
 
