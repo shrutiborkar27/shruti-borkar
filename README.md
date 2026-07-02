@@ -11,10 +11,10 @@ I am a Data Enthusiast with 8 years of experience with leading organizations in 
 - **AI / GenAI:** Snowflake Cortex (custom skills & agents), prompt engineering
 
 ## 🌟 Projects
-**FHIR Healthcare Data Pipeline** 
+**FHIR Healthcare Data Pipeline** : https://github.com/shrutiborkar27/fhir-pipeline.git
 Built an end-to-end data pipeline to process complex, semi-structured healthcare data. Extracted raw FHIR JSON files using Python, loaded them into a Snowflake data warehouse, transformed the data into analytical models using dbt, and orchestrated the entire workflow with Apache Airflow.
 
 
 ## 📫 Contact Me
 - [LinkedIn] (https://www.linkedin.com/in/shruti-borkar)
-- [Portfolio] (https://github.com/shrutiborkar27/shruti-borkar.git.io)
+- [Portfolio] (https://github.com/shrutiborkar27/shruti-borkar.git)
